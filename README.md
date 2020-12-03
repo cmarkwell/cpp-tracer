@@ -5,6 +5,8 @@ This tracer was the result of a two part assignment given during CMSC 435 at UMB
 
 The program takes an NFF file, parses it, renders it, and outputs the resulting image as a PPM file. At present, the tracer only recognizes sphere primitives. The tracer's BRDF supports diffuse, specular, and reflective lighting.
 
+Sample NFFs and output images have been provided in the samples directory!
+
 ## Build
 ```
 cmake build
